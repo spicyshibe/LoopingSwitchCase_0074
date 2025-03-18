@@ -15,6 +15,8 @@ int main ()
     cout << "perulangan for pencacahan turun" << endl;
     for (i = 4; i >= 0; i--) {
         
-    }
+            cout << "nilai i : " << i 
+            << " Lari keliling lapangan" << endl;
 
-}
+        }
+ }
